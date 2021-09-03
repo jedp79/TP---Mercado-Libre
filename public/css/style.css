@@ -14,6 +14,7 @@ a{
 	text-decoration-line: none;
 	color:  #000;
 }
+
 header{
 	background-color: #EAC926;
 	padding: 6px;
@@ -21,6 +22,10 @@ header{
 
 footer{
 	text-align: center;
+}
+
+article img{
+	 width:100%;
 }
 
 .icono{
@@ -31,15 +36,15 @@ footer{
 h3{
 	font-size: 24px;
 }
-#precios{
+.precios{
 	font-size: 18px;
 }
 
-#descuentos{
+.descuentos{
 	font-size: 16px;
 }
 
-#descripciones{
+.descripciones{
 	font-size: 16px;
 }
 #burger{
